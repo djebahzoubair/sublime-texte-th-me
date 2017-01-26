@@ -1,1 +1,1 @@
-# sublime-texte-th-me
+# sublime-texte-thème
